@@ -4,12 +4,12 @@
   display: none;
 }
 
-#wall #tag-2 {
+body #wall #tag-2 {
   display: none;
 }
 
 
-#wall #tag-3.slick, .wicked{
+div#wall div#tag-3.slick, .wicked{
   display: none;
 }
 
@@ -24,7 +24,7 @@ div#wall div.parent div#tag-5.slick {
 }
 
 
-body div#wall div.parent div:last-child div#tag-6 {
+body div#wall div.parent div:last-child div#tag-6 { /*225*/
   display: none;
 }
 
